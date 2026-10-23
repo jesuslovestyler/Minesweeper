@@ -1,7 +1,8 @@
 # Minesweeper
 
-The classic mine-sweeping puzzle — three difficulties, tap to reveal, long-press to flag.
+A free minesweeper game you play in your browser: the classic puzzle of numbers, logic, and careful clicks.
 
-Live page: https://jesuslovestyler.github.io/Minesweeper/
+**Live:** https://jesuslovestyler.github.io/Minesweeper/
+**Home:** https://jesuslovestyler.com/
 
-Made by Noki for Tyler. Public domain — share freely.
+One self-contained page: no account, no ads, nothing to buy. Released into the public domain (Unlicense — see LICENSE). Built by Tyler with Noki.
